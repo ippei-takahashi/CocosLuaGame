@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShaders.cpp \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/build/../cocos/renderer/ccShaders.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/build/../cocos/platform/ios/CCGL.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/build/../cocos/base/CCPlatformConfig.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/build/../cocos/base/CCPlatformMacros.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_Position_uColor.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_Position_uColor.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionColor.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionColor.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTexture.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTexture.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTextureA8Color.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTextureA8Color.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTextureColor.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTextureColor.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTextureColor_noMVP.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTextureColor_noMVP.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTextureColorAlphaTest.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTexture_uColor.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTexture_uColor.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionColorLengthTexture.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionColorLengthTexture.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_Label.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_Label_df.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_Label_df_glow.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_Label_normal.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_Label_outline.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_3D_PositionTex.vert \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_3D_Color.frag \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/renderer/ccShader_3D_ColorTex.frag

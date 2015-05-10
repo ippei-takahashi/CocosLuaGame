@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.cpp \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/lua.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/luaconf.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccTypes.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCGeometry.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCPlatformMacros.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccConfig.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCPlatformConfig.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/ios/CCPlatformDefine.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccMacros.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCConsole.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCRef.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/ios/CCStdC.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMath.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMathBase.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.inl \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.inl \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.inl \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.inl \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.h \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.inl \
+  /Users/katyusha/Documents/cocos/CocosLuaGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/ios/CCGL.h
